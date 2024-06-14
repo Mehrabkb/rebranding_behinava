@@ -1,0 +1,35 @@
+.title{
+    height: 600px;
+    background : url('../../../images/slider.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-radius : 10px;
+}
+.title .info{
+    width: 50%;
+    position: absolute;
+    top : 0;
+    right: 50%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    color : #fff;
+}
+.Tone-svg-contianer{
+    background : #9912b1;
+}
+.svg-container{
+    padding : 15px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border : 1px solid #444;
+}
+.svg-container .info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

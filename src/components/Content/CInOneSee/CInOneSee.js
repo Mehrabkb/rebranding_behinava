@@ -1,6 +1,5 @@
 import './CInOneSee.css';
 import React , {Component} from 'react';
-import { Link } from 'react-router-dom';
 function CInOneSee(){
     return (
         <div className='container-fluid'>

@@ -2,6 +2,8 @@ import './Content.css';
 import React , {Component} from 'react';
 import CInOneSee from './CInOneSee/CInOneSee';
 import Branding from './Branding/Branding';
+import ConceptualIdentity from './ConceptualIdentity/ConceptualIdentity';
+import Tone from './Tone/Tone';
 import { BrowserRouter as Router , Routes , Route } from 'react-router-dom';
 import Menu from '../Menu/Menu';
 function Content(){
@@ -16,6 +18,8 @@ function Content(){
             <Routes>
                 <Route path="/" element={<CInOneSee />} />
                 <Route path="/branding" element={<Branding />} />
+                <Route path="/conceptual-identity" element={<ConceptualIdentity />} />
+                <Route path="/Tone" element={<Tone />} />
             </Routes>
             
         </div>

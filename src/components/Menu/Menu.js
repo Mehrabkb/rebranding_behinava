@@ -37,7 +37,7 @@ class Menu extends Component{
                     </span>
                 </li>
                 <li className='list-item' >
-                    <NavLink className='link' activeClassName="active">هویت مفهومی علی بابا</NavLink>
+                    <NavLink className='link' to={'/conceptual-identity'} activeClassName="active">هویت مفهومی علی بابا</NavLink>
                 </li>
                 <li>
                     <span className='hidden-text'>
@@ -45,7 +45,7 @@ class Menu extends Component{
                     </span>
                 </li>
                 <li className='list-item' >
-                    <NavLink className='link' activeClassName="active">لحن و ارزش های کلامی</NavLink>
+                    <NavLink className='link' to={'/Tone'} activeClassName="active">لحن و ارزش های کلامی</NavLink>
                 </li>
                 <li className='list-item' >
                     <NavLink className='link' activeClassName="active">تگ لاین</NavLink>
