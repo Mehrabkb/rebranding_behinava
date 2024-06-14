@@ -6,6 +6,7 @@ import ConceptualIdentity from './ConceptualIdentity/ConceptualIdentity';
 import Tone from './Tone/Tone';
 import { BrowserRouter as Router , Routes , Route } from 'react-router-dom';
 import Menu from '../Menu/Menu';
+import Tagline from './Tagline/Tagline';
 function Content(){
       return (
         <Router>
@@ -20,6 +21,7 @@ function Content(){
                 <Route path="/branding" element={<Branding />} />
                 <Route path="/conceptual-identity" element={<ConceptualIdentity />} />
                 <Route path="/Tone" element={<Tone />} />
+                <Route path="/Tagline" element={<Tagline />} />
             </Routes>
             
         </div>

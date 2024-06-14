@@ -48,7 +48,7 @@ class Menu extends Component{
                     <NavLink className='link' to={'/Tone'} activeClassName="active">لحن و ارزش های کلامی</NavLink>
                 </li>
                 <li className='list-item' >
-                    <NavLink className='link' activeClassName="active">تگ لاین</NavLink>
+                    <NavLink className='link' to={'/Tagline'} activeClassName="active">تگ لاین</NavLink>
                 </li>
                 <li>
                     <span className='hidden-text' >
