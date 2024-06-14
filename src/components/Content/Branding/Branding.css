@@ -1,0 +1,33 @@
+.title{
+    height: 600px;
+    background : url('../../../images/slider.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-radius : 10px;
+}
+.title .info{
+    width: 50%;
+    position: absolute;
+    top : 0;
+    right: 50%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    color : #fff;
+}
+.bottom-box p{
+    line-height: 1.7;
+}
+.bottom-box img{
+    border-radius: 10px;
+}
+.list{
+    list-style: decimal;
+}
+.list li{
+    background : #9912b1;
+}
