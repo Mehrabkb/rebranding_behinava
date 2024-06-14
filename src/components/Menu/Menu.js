@@ -56,22 +56,22 @@ class Menu extends Component{
                     </span>
                 </li>
                 <li className='list-item' >
-                    <NavLink className='link' activeClassName="active">اصول دیزاین</NavLink>
+                    <NavLink className='link' to={'/Designer'} activeClassName="active">اصول دیزاین</NavLink>
                 </li>
                 <li className='list-item' >
-                    <NavLink className='link' activeClassName="active">لوگو</NavLink>
+                    <NavLink className='link' to={'/Logo'} activeClassName="active">لوگو</NavLink>
                 </li>
                 <li className='list-item' >
-                    <NavLink className='link' activeClassName="active">مسکات</NavLink>
+                    <NavLink className='link' to={'/Maskat'} activeClassName="active">مسکات</NavLink>
                 </li>
                 <li className='list-item' >
-                    <NavLink className='link' activeClassName="active">رنگ</NavLink>
+                    <NavLink className='link' to={'/Color'} activeClassName="active">رنگ</NavLink>
                 </li>
                 <li className='list-item' >
-                    <NavLink className='link' activeClassName="active">تایپوگرافی</NavLink>
+                    <NavLink className='link' to={'/Typographi'} activeClassName="active">تایپوگرافی</NavLink>
                 </li>
                 <li className='list-item' >
-                    <NavLink className='link' activeClassName="active">هویت جدید در کاربرد</NavLink>
+                    <NavLink className='link' to={'/New'} activeClassName="active">هویت جدید در کاربرد</NavLink>
                 </li>
             </ul>
         </div>

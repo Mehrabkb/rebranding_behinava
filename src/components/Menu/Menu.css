@@ -10,7 +10,7 @@ ul li a{
     box-sizing: border-box;
 }
 ul li {
-    padding : 7px 0 ;
+    padding : 3px 0 ;
 }
 ul li.list-item{
     cursor: pointer;
@@ -23,7 +23,7 @@ ul .active{
 ul li .link {
     width: 100%;
     display: block;
-    padding: 5px 10px 5px 0 ;
+    padding: 3px 10px 3px 0 ;
 }
 ul li.active .link{
     color : #fff;
