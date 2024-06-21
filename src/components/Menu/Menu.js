@@ -70,9 +70,6 @@ class Menu extends Component{
                 <li className='list-item' >
                     <NavLink className='link' to={'/Typographi'} activeClassName="active">تایپوگرافی</NavLink>
                 </li>
-                <li className='list-item' >
-                    <NavLink className='link' to={'/New'} activeClassName="active">هویت جدید در کاربرد</NavLink>
-                </li>
             </ul>
         </div>
         )
