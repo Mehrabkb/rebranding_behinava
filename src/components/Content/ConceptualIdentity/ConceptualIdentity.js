@@ -7,82 +7,73 @@ function ConceptualIdentity(){
                 <div className='col-12'>
                     <div className='title'>
                         <div className='info'>
-                            <h2 className='py-3'>هویت مفهومی علی بابا</h2>
+                            <h2 className='py-3'>هویت مفهومی بهین آوا</h2>
                         </div>
                     </div>
                 </div>
             </div>
             <div className='row bottom-box pt-5'>
                 <div className='col-12'>
-                    <h3 className='py-3'>منشور برند علی بابا</h3>
+                    <h3 className='py-3'>منشور برند بهین آوا</h3>
                     <div class="accordion py-3" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        آرکتایپ
+      نوآوری و خلاقیت
       </button>
     </h2>
     <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-      علی‌بابا با آرکتایپ جادوگر و برای تحقق رویا و تحول‌آفرینی به دنیا آمده است. او نویدبخش تحول و ارائه‌دهنده چشم‌انداز بهتری از زندگی است. علی‌بابا همواره چشم‌انداز می‌آفریند و آن را تمام‌وکمال زندگی می‌کند.      </div>
+      در «بهین آوا»، نوآوری و خلاقیت در مرکز همه فعالیت‌های ما قرار دارد. ما به‌طور مداوم به دنبال راهکارهای جدید و خلاقانه هستیم تا به کسب‌وکارها کمک کنیم با تغییرات روزافزون دنیای دیجیتال همگام شوند. تیم متخصص ما با بهره‌گیری از ایده‌های نو و تکنولوژی‌های پیشرفته، کمپین‌هایی را طراحی می‌کند که به مشتریان ما امکان می‌دهد در بازار رقابتی بدرخشند و برتری خود را حفظ کنند.
+      </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        فرهنگ
+      رویکرد مشتری‌محور
       </button>
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-      در فرهنگ علی‌بابا «تجربه‌ها» و «تفاوت‌ها» ستایش می‌شود و علائق، دغدغه‌ها و ترجیحاتِ متفاوت محترم هستند. دنیای پیرامونی علی‌بابا با گوناگونی‌ها تعریف و غنی می‌شود.      </div>
+      مشتریان در قلب تمام تصمیمات و استراتژی‌های ما قرار دارند. ما در «بهین آوا» به‌دقت به نیازها و خواسته‌های مشتریان گوش می‌دهیم و تلاش می‌کنیم راه‌حل‌هایی را ارائه دهیم که کاملاً منطبق با انتظارات و اهداف آن‌ها باشد. هر کسب‌وکار برای ما منحصربه‌فرد است و ما با شخصی‌سازی خدمات و ارائه پشتیبانی مداوم، به دنبال ایجاد روابطی طولانی‌مدت و ارزشمند با مشتریان خود هستیم.
+      </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-        خودانگاره مخاطبان
+      تعهد به کیفیت و نتایج      
       </button>
     </h2>
     <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-      مسافران علی‌بابا خود را این گونه توصیف می‌کنند: «من برنده، متمایز و ارزشمند هستم؛ چون بالاترین کیفیت سفر را از منبعی معتبر و متخصص می‌گیرم که همواره برای نیازهای من راهکار خلق می‌کند.»
+      کیفیت بالا و دستیابی به نتایج ملموس از اولویت‌های اصلی ما در «بهین آوا» است. ما به ارائه خدماتی با کیفیت بی‌نظیر و کارایی بالا متعهدیم که به کسب‌وکارها کمک کند به اهداف خود دست یابند. با تحلیل دقیق داده‌ها و بهره‌گیری از بهترین روش‌های موجود، ما اطمینان می‌دهیم که هر کمپین تبلیغاتی بهینه‌سازی شده و نتایج قابل‌توجهی به ارمغان می‌آورد.  
+      
     </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThreed" aria-expanded="false" aria-controls="collapseThree">
-        بازتابش جامعه
+      رشد و توسعه پایدار      
       </button>
     </h2>
     <div id="collapseThreed" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-      جامعه، مسافران علی‌بابا را افرادی توصیف می‌کند که به‌روز و مدرن زندگی می‌کنند و با انتخاب‌هایی نکته‌بینانه و هوشمند برای خود ارزش می‌سازند؛
-      افرادی که «کیفیت» محور انتخاب آنهاست.    </div>
+      در «بهین آوا»، ما به رشد و توسعه پایدار کسب‌وکارها باور داریم. هدف ما تنها دستیابی به نتایج کوتاه‌مدت نیست، بلکه ایجاد زیرساخت‌هایی است که به مشتریان ما کمک می‌کند در بلندمدت به موفقیت برسند. با تمرکز بر استراتژی‌های بلندمدت و ایجاد ارزش پایدار، ما به کسب‌وکارها کمک می‌کنیم تا نه‌تنها در حال حاضر، بلکه در آینده نیز پیشرو و موفق باقی بمانند.  
+      </div>
     </div>
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThreef" aria-expanded="false" aria-controls="collapseThree">
-        رابطه
+      همکاری و هم‌افزایی تیمی
       </button>
     </h2>
     <div id="collapseThreef" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-        رابطه علی‌بابا با مسافرانش یک رابطه اعتمادآفرین است؛ رابطه‌ای بلندمدت که خلق موقعیتی برد-برد، محور تداوم آن به‌حساب می‌آید و سفرساز و مسافر هر دو برای تداوم آن مشتاق هستند.
-</div>
-    </div>
-  </div>
-  <div class="accordion-item">
-    <h2 class="accordion-header">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThreeg" aria-expanded="false" aria-controls="collapseThree">
-        پیکره
-      </button>
-    </h2>
-    <div id="collapseThreeg" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-      <div class="accordion-body">
-      نام علی‌بابا با تداعیات تاریخی-فرهنگی مختلفی از سفر همراه است. او این تداعیات را با رویکردی مدرن و مبتنی بر تحول‌آفرینی بازتعریف می‌کند و پیکره خود را روی این رویکرد تازه، استوار می‌سازد.
+      موفقیت «بهین آوا» نتیجه همکاری و هم‌افزایی تیمی است. ما به قدرت تیم و اهمیت همکاری مشترک باور داریم و به ایجاد محیطی پویا و حمایتی متعهدیم که در آن هر عضو تیم می‌تواند به بهترین شکل ممکن عمل کند. با اشتراک دانش و تجربه، ما به دنبال ارائه بهترین راه‌حل‌ها و خدمات برای مشتریان خود هستیم و بر این باوریم که همکاری تیمی، کلید دستیابی به موفقیت‌های بزرگ است.
 </div>
     </div>
   </div>
@@ -91,14 +82,11 @@ function ConceptualIdentity(){
                 </div>
                 <hr />
                 <div className='col-12 col-md-6 mt-4'>
-                    <p>
-                    شخصیت برند علی‌بابا براساس آرکتایپ جادوگر (Magician) تعریف شده است؛ همان جادوگری که آینده را به امروز می‌آورد و تجربه‌هایی تحول‎آفرین برای مخاطبانش می‌سازد.
-                    «جسارت برای نوآوری»، «ذات پویای سفر» و «هوشمندی برای درک نیازهای امروز و آینده مخاطب و صنعت» لازمه آفرینش این تجربه‌هاست تا جایگاه علی‌بابا به‌عنوان رهبر بازار گردشگری با تصویری متمایز نسبت به سایر بازیگران این صنعت تثبیت شود و در مسیر خلق ارزش برای پاسخ به نیازهای گوناگون مخاطبان حرکت کند.
-                    </p>
+                    <p>شخصیت برند بهین آوا بر اساس آرکتایپ ققنوس (Phoenix) تعریف شده است؛ همان ققنوسی که با نوآوری مداوم، به کسب‌وکارها جان تازه می‌بخشد و تجربه‌هایی تحول‌آفرین برای مخاطبان خود می‌سازد. «شجاعت برای خلاقیت»، «روحیه پیشرو در دنیای دیجیتال» و «هوشمندی برای درک نیازهای امروز و فردای مخاطبان و صنعت» لازمه ایجاد این تجربه‌هاست تا جایگاه بهین آوا به‌عنوان رهبر بازار تبلیغات دیجیتال با تصویری متمایز نسبت به سایر رقبا تثبیت شود و در مسیر خلق ارزش برای پاسخ به نیازهای متنوع مخاطبان حرکت کند.</p>
                 </div>
                 <div className='col-12 col-md-6 mt-4'>
                     <p>
-                    نوآوری، خلق آینده، پیشروبودن و تطابق با الگوهای نوین رفتار مخاطبان، کلیدواژه‌هایی هستند که ما را در مسیر بازتعریف هویت علی‌بابا هدایت کرده‌اند </p>
+                    نوآوری، ساخت آینده، پیشرو بودن و انطباق با الگوهای نوین رفتار مشتریان، کلیدواژه‌هایی هستند که ما را در مسیر بازتعریف هویت بهین آوا هدایت کرده‌اند</p>
                 </div>
             </div>
         </div>
