@@ -1,3 +1,4 @@
+import React , { Component } from 'react';
 import './Home.css';
 import Menu from '../Menu/Menu';
 import Content from '../Content/Content';

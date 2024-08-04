@@ -18,7 +18,7 @@ class Menu extends Component{
                 <img alt='hello' src={logo} className='w-75'/>
             </NavLink>
             <hr />
-            <p>راهنمای هویت برند علی بابا </p>
+            <p>راهنمای هویت برند بهین آوا </p>
             <ul>
                 <li>
                     <span className='hidden-text'>
@@ -37,7 +37,7 @@ class Menu extends Component{
                     </span>
                 </li>
                 <li className='list-item' >
-                    <NavLink className='link' to={'/conceptual-identity'} activeClassName="active">هویت مفهومی علی بابا</NavLink>
+                    <NavLink className='link' to={'/conceptual-identity'} activeClassName="active">هویت مفهومی بهین آوا</NavLink>
                 </li>
                 <li>
                     <span className='hidden-text'>

@@ -24,6 +24,7 @@
 }
 .bottom-box img{
     border-radius: 10px;
+    width: 100%;
 }
 .list{
     list-style: decimal;
